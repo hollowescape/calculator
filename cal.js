@@ -12,6 +12,7 @@ function clean(){
     document.form.textveiw.value="";
 }
 function back(){
+    //hello
     var expo=document.form.textveiw.value;
     document.form.textveiw.value=expo.substring(0,expo.length-1)
 }
