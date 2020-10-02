@@ -8,6 +8,7 @@ function equal(){
         document.form.textveiw.value=eval(expo)     
     }
 }
+//functions are implementaing good
 function clean(){
     document.form.textveiw.value="";
 }
