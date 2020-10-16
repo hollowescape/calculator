@@ -17,3 +17,4 @@ function back(){
     var expo=document.form.textveiw.value;
     document.form.textveiw.value=expo.substring(0,expo.length-1)
 }
+//intersting
